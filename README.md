@@ -209,7 +209,6 @@ Combine LoRa e deep sleep para criar sensores de longa duração que reportam da
 A biblioteca Heltec ESP32 LoRa V3 não oficial simplifica o uso das placas Heltec, fornecendo ferramentas poderosas para comunicação LoRa, gerenciamento de energia e integração com displays. Seja para monitoramento remoto, redes IoT ou protótipos, essa biblioteca é uma excelente escolha para desenvolvedores.
 
 > **Explore Mais:**
-> - [Documentação da Biblioteca](https://github.com/ropg/heltec_esp32_lora_v3)
 > - [RadioLib](https://jgromes.github.io/RadioLib/)
 
 Se precisar de ajuda, é só perguntar! 🚀
