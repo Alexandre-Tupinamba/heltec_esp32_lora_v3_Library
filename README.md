@@ -2,6 +2,8 @@
 
 Este tutorial explica detalhadamente como utilizar a biblioteca não oficial **Heltec ESP32 LoRa V3**, projetada para simplificar o uso das placas Heltec ESP32 LoRa V3. Combinando um transceptor LoRa SX1262, um ESP32-S3 com conectividade Wi-Fi/Bluetooth e, em alguns casos, um display OLED, essas placas são perfeitas para projetos de IoT e comunicação de longo alcance.
 
+![image](https://github.com/user-attachments/assets/917572ea-b8b9-4a17-a6f2-bad98c504138)
+
 ---
 
 ## **1. Introdução à Biblioteca**
